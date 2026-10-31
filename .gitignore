@@ -1,0 +1,5 @@
+.env
+university.db
+logs/
+__pycache__/
+.venv/
