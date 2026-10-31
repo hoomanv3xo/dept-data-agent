@@ -3,7 +3,7 @@
 A Flask web app where an LLM agent (Cohere API, tool calling) answers plain-English questions about a
 **synthetic** university database. The model chooses between three tools, our code runs them with
 safety checks, and the app shows the answer, a table, an optional chart, and a CSV download.
-
+![Screenshot of the app](docs/screenshot.png)
 ## Run it
 
 ```bash
